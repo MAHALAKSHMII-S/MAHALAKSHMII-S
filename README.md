@@ -1,11 +1,10 @@
 [![MasterHead](https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Maha Lakshmi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align=“right”  alt=“Coding  width=“400” src=“https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966”
 
-- 👨‍💻 All of my projects are available at [https://github.com/MAHALAKSHMII-S](https://github.com/MAHALAKSHMII-S)
+- 👩🏻‍💻 All of my projects are available at [https://github.com/MAHALAKSHMII-S](https://github.com/MAHALAKSHMII-S)
 
-- 📫 How to reach me **mahalakshmi.252k2@gmail.com**
+- 📫 Reach me through mail **mahalakshmi.252k2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
