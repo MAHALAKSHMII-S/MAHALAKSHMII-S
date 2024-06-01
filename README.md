@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Maha Lakshmi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 👩🏻‍💻 All of my projects are available at [https://github.com/MAHALAKSHMII-S](https://github.com/MAHALAKSHMII-S)
+- 👩🏻‍💻 All of my projects are available at🗂️ [https://github.com/MAHALAKSHMII-S](https://github.com/MAHALAKSHMII-S)📎
 
-- 📫 Reach me through mail **mahalakshmi.252k2@gmail.com**
+- 📫 Reach me through mail📩 **mahalakshmi.252k2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
